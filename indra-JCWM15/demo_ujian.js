@@ -1,0 +1,1 @@
+console.log("Nama : indra, Program : JCWM, Sekolah : Purwadhika")
